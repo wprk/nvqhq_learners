@@ -1,0 +1,13 @@
+{
+  "packages": {
+    "less-bootstrap-3": {},
+    "less-fontawesome-4": {},
+    "iron-router": {},
+    "blaze-layout": {},
+    "spin": {},
+    "jquery-ui-bootstrap": {},
+    "modernizr-meteor": {},
+    "roles": {},
+    "wizard": {}
+  }
+}
